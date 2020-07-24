@@ -1,4 +1,4 @@
-class Application
+
 
   class Application
  
@@ -24,4 +24,3 @@ class Application
  
 end
 
-end
